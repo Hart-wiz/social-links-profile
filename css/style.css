@@ -53,7 +53,7 @@ img {
   display: flex;
   flex-direction: column;
   gap: 1rem;
-  padding: 1.5rem;
+  padding: 0.7rem 1.5rem;
   border-radius: 0.7rem;
 }
 
@@ -70,9 +70,11 @@ h1 {
 h3 {
   color: var(--Green);
   padding-bottom: 0.9rem;
+  font-size: 0.7rem;
 }
 p {
   color: white;
+  font-size: 0.7rem;
 }
 
 /* styling button */
